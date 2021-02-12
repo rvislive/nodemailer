@@ -1,5 +1,5 @@
 require('dotenv/config');
-const Email = require('./app');
+const Email = require('./lib/app');
 
 const newEmailParamater = {
     from: 'rnbrainium@gmail.com',
