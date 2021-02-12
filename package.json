@@ -24,6 +24,7 @@
   "homepage": "https://github.com/rvislive/nodemailer#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
     "nodemailer": "^6.4.18"
   }
 }
