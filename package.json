@@ -1,0 +1,29 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "A function to send email with custom template, logo, name, message and many more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvislive/nodemailer.git"
+  },
+  "keywords": [
+    "nodemailer",
+    "email",
+    "gmail",
+    "live"
+  ],
+  "author": "Rakesh Vishwakarma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rvislive/nodemailer/issues"
+  },
+  "homepage": "https://github.com/rvislive/nodemailer#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemailer": "^6.4.18"
+  }
+}
